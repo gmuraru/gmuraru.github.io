@@ -4,50 +4,33 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<details><summary><b>Me and myself</b></summary>
-<h3>Travel</h3>
-Amsterdam, Sweden, London, Switerland, France, Holland, Canada
+<details><summary><b>About me</b></summary>
+<ul>
+<li>Bachelor's Degree in Computer Science and Engineering from Politehnica University of Bucharest</li>
+<li>Master's Degree in Artificial Intelligence from Politehnica University of Bucharest</li>
+</ul>
 </details>
-<details><summary><b>University stuff</b></summary>
-    <h3>Teaching Assistant Experience</h3>
-    <details><summary><b>Formal Languages and Automata Theory (2019 - Present)</b></summary>
-        <ul>
-            <li><a href="https://github.com/cs-pub-ro/LFA-CB">Laboratory - Python</a></li>
-            <li>Seminar</li>
-        </ul>
-    </details>
-    <details><summary><b>Introduction to Assembly Language Programming (2019 - Present)</b></summary>
-        <ul>
-            <li><a href="https://ocw.cs.pub.ro/courses/iocla">Laboratory</a></li>
-        </ul>
-    </details>
+<details><summary><b>Teaching Assistant - University Courses</b></summary>
 
-    <details><summary><b>Programming Paradigms (2018 - Present)</b></summary>
-        <ul>
-            <li><a href="http://ocw.cs.pub.ro/ppcarte/doku.php">Laboratory</a></li>
-        </ul>
-    </details>
-
-    <details><summary><b>Data Structures (2016-2017)</b></summary>
-        <ul>
-            <li>Laboratory</li>
-        </ul>
-    </details>
-
-    <details><summary><b>Introduction to Computer Programming (2014 - Present)</b></summary>
-        <ul>
-            <li><a href="https://ocw.cs.pub.ro/courses/programare">Laboratory</a></li>
-        </ul>
-    </details>
+    More information regarding individual courses can be found <a href="https://docs.google.com/document/d/1k1s3H8_Qf0bVJvCNIGJkgp27zYyUENhmWRZVXPhI6I8/edit?usp=sharing">here</a>
+    <ul>
+        <li>Introduction to Computer Programming (2014 - Present)</li>
+        <li>Data Structures (2016-2017)</li>
+        <li>Introduction to Assembly Language Programming (2019 - 2020)</li>
+        <li>Programming Paradigms (2018 - 2020)</li>
+        <li>Formal Languages and Automata Theory (2019 - 2020)</li>
+        <li>Operating Systems (2017-2020)</li>
+        <li>Machine Learning (2019-2020)</li>
+    </ul>
 </details>
 
-<details><summary><b>Extracurricular Courses</b></summary>
+<details><summary><b>Online Learning Courses</b></summary>
     <ul>
         <li>TODO</li>
     </ul>
 </details>
 
-<details><summary><b>Extracurricular Projects</b></summary>
+<details><summary><b>Projects/Achievements</b></summary>
     <h2>Projects - TODO</h2>
     <ul>
         <li><a href="https://github.com/">Lorem Lorem</a></li>
@@ -55,6 +38,3 @@ Amsterdam, Sweden, London, Switerland, France, Holland, Canada
         <li><a href="https://github.com/">Dolor Lorem</a></li>
     </ul>
 </details>
-
-
-<h2><a href="https://www.linkedin.com/in/george-cristian-muraru-5978409a/">Linkedin Profile</a></h2>
